@@ -1,2 +1,2 @@
 # ComputationAndLogic
-Reading "Software Foundations" and studying Coq
+Reading "Software Foundations" and learning Coq
